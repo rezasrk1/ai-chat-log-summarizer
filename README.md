@@ -76,15 +76,4 @@ Summary:
 
 ---
 
-## License
 
-This project is open source and free to use.
-
-```
-
----
-
-Just create a file called `README.md` in your project folder and paste the above content in it. Then commit and push to GitHub!
-
-If you want, I can help you with the commands to do that.
-```
