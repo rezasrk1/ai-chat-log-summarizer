@@ -69,9 +69,10 @@ python chat_summarizer.py
 ```
 Summary:
 - The conversation had 6 exchanges.
-- User sent 3 messages; AI responded with 3.
-- Most common keywords: machine, learning, python, hello, explain
+- User sent 3 messages; AI responded with 2.
+- Most common keywords:  python, use, hi, tell, sure
 ```
+![Screenshot (3)](https://github.com/user-attachments/assets/258f598c-4497-41e5-a705-2c8710ed4630)
 
 ---
 
